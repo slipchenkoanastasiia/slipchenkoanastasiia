@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привіт! 👋 Я Анастасія
 
-<!--
-**slipchenkoanastasiia/slipchenkoanastasiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Front-end розробник** з досвідом у:
+- HTML, CSS, JavaScript, Node.js
+- Інструменти: Git, Webpack, Parcel, Figma
 
-Here are some ideas to get you started:
+🌱 Зараз вивчаю TypeScript та React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Статистика
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=slipchenkoanastasiia&show_icons=true&theme=tokyonight)
+
+## 🏆 Досягнення
+- 🔥 Більше 1000 внесків у 2023 році
+- 🚀 Проєкти з відкритим вихідним кодом
